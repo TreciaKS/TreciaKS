@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project, I'm all in to learn the language or needed skills. My strongest points is designing with CSS/TailwindCSS**
 
-- 🤝 I’m looking for help with **UI or web design**
+- 🤝 I’m looking to help with **UI or web design** and interested in being a Community Manager, Frontend Developer or Developer Advocate!
 
 - 📝 I regularly write articles on [https://treciaks.hashnode.dev](https://treciaks.hashnode.dev)
 
