@@ -26,7 +26,7 @@
 <a href="https://hashnode.com/@treciaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@treciaks" height="30" width="40" /></a>
 </p>
 
-<h3>Popular Blog Article</h3>
+<h3>Popular Blog Articles</h3>
 <ul>
   <li><a href="https://treciaks.hashnode.dev/tailing-tailwind-css">Tailing Tailwind CSS</a></li>
   <li><a href="https://treciaks.hashnode.dev/css-arts-whats-the-deal">CSS Arts: What's The Deal</a></li>
