@@ -41,7 +41,7 @@
 <h3>{{ Languages: Backend }}</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="80px" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="80px" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="80px" />
 </p>
 
 <h3>🎨 Design 🎨</h3>
