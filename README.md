@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="80px" />
 </p>
 
-<h3>🎨 Design 🎨</h3>
+<!-- <h3>🎨 Design 🎨</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="80px" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80px" />
@@ -57,8 +57,7 @@
 <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" width="80px" />
 <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" width="80px" />
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width="80px" />
-</p>
-
+</p> -->
 
 <h1 align="left">🥳 Connect with me 🥳</h1>
 <p align="left">
