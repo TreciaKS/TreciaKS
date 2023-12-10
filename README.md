@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/82657928/184918827-87072f03-6e9b-4c43-9a58-acd57a5082f6.png" alt="TreciaKS Logo" />
 <h1 align="center">I'm Tree 🌳 She 💁‍♀️ Aah 🅰️ </h1>
-<h3 align="center">Self-Taught Software Engineer 👩🏾‍🎓| Tech Writer 📝| Developer Advocate 🥑 </h3>
+<h3 align="center">Self-Taught Software Engineer 👩🏾‍🎓 | Tech Writer 📝 | Developer Advocate 🥑 </h3>
 
 <p align="center"> <a href="https://twitter.com/treciaks" target="blank"><img src="https://img.shields.io/twitter/follow/treciaks?logo=twitter&style=for-the-badge" alt="treciaks" width="300px"/></a> </p>
 
