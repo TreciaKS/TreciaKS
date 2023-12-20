@@ -56,9 +56,8 @@ In the meantime, learning and utilising C#, Angular, .NET, ASP.NET, Docker, Kube
       <a href="https://codepen.io/treciaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="treciaks" height="30" width="40" /></a>
       <a href="https://dev.to/treciaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="treciaks" height="30" width="40" /></a>
       <a href="https://hashnode.com/@treciaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@treciaks" height="30" width="40" /></a>
-      <a href="https://tiktok.com/@TreciaKS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="treciaks" height="30" width="40" /></a>
+      <a href="https://tiktok.com/@TreciaKS" target="blank"><img align="center" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="treciaks" height="30" width="80" /></a>
       </p>
-      <br>
       <h3>👩‍🏫 Where I learned How To Code 👩🏾‍🎓</h3>
       <p align="left">
       <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
