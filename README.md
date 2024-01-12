@@ -9,7 +9,7 @@
 
 <p align="justify">Otherwise, <a href="https://treciaks.hashnode.dev" target="_blank">I blog</a>  🔍 and I mainly write about CSS. I aim to branch out and to start writing more about DevRel 🥑, Tailwind CSS and JAMStack and overall SDE learnings. I can give tech talks about being self taught, content creation, CSS, Tailwind CSS, DevRel 🥑 and all things web dev!. 🌱</p>
 
-In the meantime, learning and utilising C#, Angular, .NET, ASP.NET, Docker, Kubernetes and MS SQL!
+In the meantime, learning and utilising C#, Angular, .NET, ASP.NET, Docker and MS SQL!
 
 <h1>My Articles ⭐️</h1>
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  width="150px" />
