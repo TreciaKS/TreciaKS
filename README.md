@@ -7,7 +7,7 @@
 <h1>🎆 About Me 🎆</h1>
 <p align='justify'>Hey there! I am an MCU fan, ask me anything about Marvel. 🐜 I play <a href="https://api.razzlepuzzles.com/cryptogram" target="blank">cryptogram</a> whenever I'm on a break. I wish I had a cryptogram buddy to be honest 😆 I read fictional novels. I listen to new age, neo-psychedelia, dream pop and rock music!!! Top artists are; Coldplay, The Verve and Lorde 🎸🎧 </p>
 
-<p align="justify">Otherwise, <a href="https://treciaks.hashnode.dev" target="_blank">I blog</a>  🔍 and I mainly write about CSS. Recently I've started to branch out to writing more about DevRel 🥑, Tailwind CSS and JAMStack stuff (coming soon). I can give tech talks about being self taught, content creation, CSS, Tailwind CSS, DevRel 🥑 and all things web dev!. 🌱</p>
+<p align="justify">Otherwise, <a href="https://treciaks.hashnode.dev" target="_blank">I blog</a>  🔍 and I mainly write about CSS. I aim to branch out and to start writing more about DevRel 🥑, Tailwind CSS and JAMStack and overall SDE learnings. I can give tech talks about being self taught, content creation, CSS, Tailwind CSS, DevRel 🥑 and all things web dev!. 🌱</p>
 
 In the meantime, learning and utilising C#, Angular, .NET, ASP.NET, Docker, Kubernetes and MS SQL!
 
@@ -24,7 +24,7 @@ In the meantime, learning and utilising C#, Angular, .NET, ASP.NET, Docker, Kube
   <tr>
     <td valign="center">
        <h1> Most Used Languages ⚙️ </h1>
-       <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/7f139fb0-7f96-4ac9-817c-32275aee1d66.svg" width="500px" />
+       <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/9fd62f83-9665-4a77-b8c9-d35c04e75da6.svg" width="500px" />
        <h1> Check & Star My Project/s ✨ </h1>
        <a href="https://github.com/TreciaKS/DevRel-Starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TreciaKS&repo=DevRel-Starter" /></a>
   <h3>{ Languages: Frontend }</h3>
