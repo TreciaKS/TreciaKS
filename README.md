@@ -24,7 +24,7 @@ In the meantime, learning and utilising C#, Angular, .NET, ASP.NET, Docker and M
   <tr>
     <td valign="center">
        <h1> Most Used Languages ⚙️ </h1>
-       <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/9fd62f83-9665-4a77-b8c9-d35c04e75da6.svg" width="500px" />
+       <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/fe3ca75e-4ca4-4560-bf4d-8111d8ec69fa.svg" width="600px" />
        <h1> Check & Star My Project/s ✨ </h1>
        <a href="https://github.com/TreciaKS/DevRel-Starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TreciaKS&repo=DevRel-Starter" /></a>
   <h3>{ Languages: Frontend }</h3>
