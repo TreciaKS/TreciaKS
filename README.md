@@ -1,17 +1,17 @@
 <img src="https://user-images.githubusercontent.com/82657928/184918827-87072f03-6e9b-4c43-9a58-acd57a5082f6.png" alt="TreciaKS Logo" />
 <h1 align="center">I'm Tree 🌳 She 💁‍♀️ Aah 🅰️ </h1>
-<h3 align="center">Self-Taught Software Engineer 👩🏾‍🎓 | Tech Writer 📝 | Developer Advocate 🥑 </h3>
+<h3 align="center">Full Stack Software Engineer 👩🏾‍🎓 | Technical Writer 📝 | Developer Advocate 🥑 </h3>
 
 <p align="center"> <a href="https://twitter.com/treciaks" target="blank"><img src="https://img.shields.io/twitter/follow/treciaks?logo=twitter&style=for-the-badge" alt="treciaks" width="300px"/></a> </p>
 
 <h1>🎆 About Me 🎆</h1>
-<p align='justify'>Hey there! I am an MCU fan, ask me anything about Marvel. 🐜 I play <a href="https://api.razzlepuzzles.com/cryptogram" target="blank">cryptogram</a> whenever I'm on a break. I wish I had a cryptogram buddy to be honest 😆 I read fictional novels. I listen to new age, neo-psychedelia, dream pop and rock music!!! Top artists are; Coldplay, The Verve and Lorde 🎸🎧 </p>
+<p align="justify"> Full Stack Software Engineer with expertise in C#, JavaScript, React, Angular, SQL, MS SQL/SSMS, ASP.NET, REST APIs, TailwindCSS, and Git. 
 
-<p align="justify">Otherwise, <a href="https://treciaks.hashnode.dev" target="_blank">I blog</a>  🔍 and I mainly write about CSS. I aim to branch out and to start writing more about DevRel 🥑, Tailwind CSS and JAMStack and overall SDE learnings. I can give tech talks about being self taught, content creation, CSS, Tailwind CSS, DevRel 🥑 and all things web dev!. 🌱</p>
+I'm a strong advocate for clean, maintainable code and collaborative development practices. My dedication to open source contributions and JAMstack principles drives my commitment to crafting cutting-edge web applications. 
+  
+<a href="https://treciaks.hashnode.dev" target="_blank">I blog</a> and I aim to branch out and to start writing more about DevRel 🥑, JAMStack and overall SDE learnings. </p>
 
-In the meantime, learning and utilising C#, Angular, .NET, ASP.NET, Docker and MS SQL!
-
-<h1>My Articles ⭐️</h1>
+<h1>Written Popular Articles ⭐️</h1>
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  width="150px" />
 <ul>
   <li><a href="https://treciaks.hashnode.dev/i-am-a-self-taught-developer-and-i-landed-my-first-tech-job-remotely" target="blank">I am a self taught developer and I landed my first tech job, remotely!</a></li>
