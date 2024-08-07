@@ -7,7 +7,7 @@
 <h1>🎆 About Me 🎆</h1>
 <p align="justify"> Full Stack Software Engineer with expertise in C#, JavaScript, React, Angular, SQL, MS SQL/SSMS, ASP.NET, REST APIs, TailwindCSS, and Git. 
 
-I'm a strong advocate for clean, maintainable code and collaborative development practices. My dedication to open source contributions and JAMstack principles drives my commitment to crafting cutting-edge web applications. 
+I'm a strong advocate for clean, maintainable code and collaborative development practices. My dedication to open source contributions drives my commitment to crafting cutting-edge web applications. 
   
 <a href="https://treciaks.hashnode.dev" target="_blank">I blog</a> and I aim to branch out and to start writing more about DevRel 🥑, JAMStack and overall SDE learnings. </p>
 
