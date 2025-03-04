@@ -34,6 +34,9 @@ I strongly advocate for clean, maintainable code and collaborative development p
 
  <h1> Coding Activity By Languages ⚙️ </h1>
  <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/fe3ca75e-4ca4-4560-bf4d-8111d8ec69fa.svg" width="600px" />
+ <hr />
+ <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/44bcee08-f5a5-4b78-afdf-e76dae63db84.svg" height="100px" />
+ <hr />
   
   <table>
   <h1>Tech Stack</h1>
