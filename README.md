@@ -35,7 +35,8 @@ I strongly advocate for clean, maintainable code and collaborative development p
  <h1> Coding Activity By Languages ⚙️ </h1>
  <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/fe3ca75e-4ca4-4560-bf4d-8111d8ec69fa.svg" width="600px" />
  <hr />
- <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/44bcee08-f5a5-4b78-afdf-e76dae63db84.svg" height="100px" />
+ <h1>(Azure DevOps) Coding Activity Throughout the Year</h1>
+ <img src="https://wakatime.com/share/@c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c/5a7cfe07-255a-4b2f-a7d2-2079a7f8263a.svg" />
  <hr />
   
   <table>
