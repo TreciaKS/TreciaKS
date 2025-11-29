@@ -21,7 +21,7 @@ I occasionally write about software engineering and learning in public on my blo
   <span><a href="https://treciaks-dev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-treciaks--dev-98ff9f?style=for-the-badge" /></a></span>
   <span><img src="https://img.shields.io/badge/STACK-FULL--STACK-ff2fdc?style=for-the-badge" /></span>
   <hr />
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@TreciaKS/eb511241-bc9e-48f9-9110-57e23f9de1a4.png" alt="daily code stats" width="450" /></a>
+  <a href="https://wakatime.com/share/@TreciaKS/edbb1579-4c92-4b0c-a7a5-0b1006965822.svg"><img src="https://wakatime.com/share/@TreciaKS/eb511241-bc9e-48f9-9110-57e23f9de1a4.png" alt="daily code stats" width="450" /></a>
   </p>
     </td>
     <td align="center" width="50%">
@@ -29,7 +29,7 @@ I occasionally write about software engineering and learning in public on my blo
       <hr />
       <p align="center"><img src="https://wakatime.com/badge/user/c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c.svg" alt="Total time coded since Dec 23 2021" /></p>
       <br />
-        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@TreciaKS/ce6a150e-9352-4adb-9e29-3dc6fbe25b6d.png" alt="Languages stats" width="450" /></a>
+        <a href="https://wakatime.com/share/@TreciaKS/ce6a150e-9352-4adb-9e29-3dc6fbe25b6d.png"><img src="https://wakatime.com/share/@TreciaKS/ce6a150e-9352-4adb-9e29-3dc6fbe25b6d.png" alt="Languages stats" width="450" /></a>
     </td>
   </tr>
 </table>
