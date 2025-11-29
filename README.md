@@ -29,7 +29,7 @@ I occasionally write about software engineering and learning in public on my blo
       <hr />
       <p align="center"><img src="https://wakatime.com/badge/user/c7f33d40-7b1c-42e2-93cc-ddd0c93ff27c.svg" alt="Total time coded since Dec 23 2021" /></p>
       <br />
-        <a href="https://wakatime.com/share/@TreciaKS/d1935ce3-51d3-4cec-8956-e6784f5dc34e.svg"><img src="https://wakatime.com/share/@TreciaKS/ce6a150e-9352-4adb-9e29-3dc6fbe25b6d.png" alt="Languages stats" width="450" /></a>
+        <a href="https://wakatime.com/share/@TreciaKS/ba8a638d-295f-4c8c-b77b-4a50d9cbfbee.svg"><img src="https://wakatime.com/share/@TreciaKS/ce6a150e-9352-4adb-9e29-3dc6fbe25b6d.png" alt="Languages stats" width="450" /></a>
     </td>
   </tr>
 </table>
